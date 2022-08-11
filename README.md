@@ -3,6 +3,8 @@
 
 **STRbook** contains several data sets, as well as helper functions, for guiding the user through the Labs in the book. The package will not be available on CRAN due to the size of the data sets, and it must be installed from this GitHub page. To install, please install **devtools** first. Then, in the command line, type
 
+- Testing GitHub flow
+
 ```
 library(devtools)
 install_github("andrewzm/STRbook")
